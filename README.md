@@ -1,0 +1,1 @@
+My attempts at the challenges over at <a>https://adventofcode.com/2018<a>
