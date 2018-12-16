@@ -50,7 +50,6 @@ void setGuards(const std::vector<std::string> lines, std::unordered_map<size_t, 
 }
 
 size_t getSleepyGuard(const std::unordered_map<size_t, std::vector<size_t>> guards){
-    
     size_t maxID;
     size_t maxValue = 0;
     for (const auto &id : guards){
